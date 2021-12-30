@@ -1,0 +1,1 @@
+import{t as e,p as T,o as t}from"./vendor.b854389a.js";import{T as a,e as o,f as d}from"./index.a988d95d.js";function*_(){yield T({type:d}),yield t(500),yield T({type:o})}function*y(){yield e(a,_)}export{y as default};
