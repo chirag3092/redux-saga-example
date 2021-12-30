@@ -4,7 +4,7 @@ import AppRoutes from './appRoutes';
 import Layout from './Layout';
 
 const App = () => (
-  <BrowserRouter>
+  <BrowserRouter basename="/redux-saga-example">
     <Layout>
       <AppRoutes />
     </Layout>
