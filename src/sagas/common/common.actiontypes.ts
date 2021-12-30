@@ -1,0 +1,1 @@
+export const COMMON_GET_HOME_INFO = 'COMMON_GET_HOME_INFO';
